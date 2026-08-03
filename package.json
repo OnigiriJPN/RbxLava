@@ -16,6 +16,11 @@
   },
   "devDependencies": {
     "@types/node": "^26.1.2"
+    "@types/react": "",
+    "@types/react-dom": "",
+    "postcss": "",
+    "tailwindcss": "",
+    "typescript": "",
   },
   "author": "OnigiriTV",
   "license": "MIT"
