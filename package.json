@@ -1,7 +1,7 @@
 {
-  "name": "npm-experiment",
+  "name": "RbxLava",
   "version": "1.0.0",
-  "description": "",
+  "description": "Roblox World Create in API Key",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
